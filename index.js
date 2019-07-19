@@ -12,13 +12,15 @@ Moment.locale('zh-cn')
 import baseFn from './lib/baseFn'
 import vueFn from './lib/vueFn'
 
-export { Base64 }
-export { Cookie }
-export { Md5 }
-export { Moment }
-export { Qs }
-export { baseFn }
-export { vueFn }
+export {
+  Base64,
+  Cookie,
+  Md5,
+  Moment,
+  Qs,
+  baseFn,
+  vueFn
+}
 export default {
   Base64,
   Cookie,
