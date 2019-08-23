@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
+    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="update objProxy Fn">
+      <change afterPath="$PROJECT_DIR$/lib/baseFn/upperNumber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/getFormItemParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/getFormItemParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,14 +21,14 @@
     <session id="-1215313164">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="15" />
+          <entry key="js" value="23" />
           <entry key="json" value="4" />
           <entry key="md" value="1" />
         </counts>
@@ -32,21 +36,21 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="15" />
+          <entry key="JavaScript" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="206" />
-          <entry key="json" value="31" />
+          <entry key="js" value="285" />
+          <entry key="json" value="32" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="31" />
-          <entry key="JavaScript" value="206" />
+          <entry key="JSON" value="32" />
+          <entry key="JavaScript" value="285" />
           <entry key="PLAIN_TEXT" value="45" />
         </counts>
       </usages-collector>
@@ -54,7 +58,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding>
+                <element signature="e#56#90#0" expanded="true" />
+                <element signature="e#220#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/vueFn/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/baseFn/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#64#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/baseFn/getFormItemParams.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/baseFn/upperNumber.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-546">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/baseFn/getEnv.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
@@ -64,10 +129,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/vueFn/getRouter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/baseFn/objProxy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="957">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -96,6 +170,8 @@
       <find>obj</find>
       <find>var</find>
       <find>this</find>
+      <find>toRouter</find>
+      <find>getFormItemParams</find>
     </findStrings>
     <replaceStrings>
       <replace>needCopy</replace>
@@ -114,12 +190,14 @@
         <option value="$PROJECT_DIR$/lib/objProxy.js" />
         <option value="$PROJECT_DIR$/lib/sessionFn.js" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/lib/baseFn/index.js" />
         <option value="$PROJECT_DIR$/lib/vueFn/index.js" />
         <option value="$PROJECT_DIR$/lib/vueFn/back.js" />
-        <option value="$PROJECT_DIR$/lib/baseFn/objProxy.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/lib/baseFn/objProxy.js" />
+        <option value="$PROJECT_DIR$/lib/baseFn/getFormItemParams.js" />
+        <option value="$PROJECT_DIR$/lib/baseFn/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/baseFn/upperNumber.js" />
       </list>
     </option>
   </component>
@@ -148,6 +226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,7 +255,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,7 +293,10 @@
       <workItem from="1562144255485" duration="1910000" />
       <workItem from="1563506105854" duration="8256000" />
       <workItem from="1563955538898" duration="10000" />
-      <workItem from="1564043519054" duration="4306000" />
+      <workItem from="1564043519054" duration="5439000" />
+      <workItem from="1564650676502" duration="1425000" />
+      <workItem from="1565061412604" duration="2350000" />
+      <workItem from="1566472907025" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -245,20 +326,26 @@
       <option name="project" value="LOCAL" />
       <updated>1564301549267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update objProxy Fn">
+      <created>1564301768470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564301768470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14516000" />
+    <option name="totallyTimeSpent" value="21694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -268,9 +355,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298647" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.330076" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31633714" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="调试" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,40 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#56#90#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vueFn/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/baseFn/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#64#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/baseFn/getEnv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -345,24 +399,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vueFn/getRouter.js">
+    <entry file="file://$PROJECT_DIR$/lib/vueFn/back.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="264">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vueFn/back.js">
+    <entry file="file://$PROJECT_DIR$/lib/vueFn/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/baseFn/objProxy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="957">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -373,10 +427,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vueFn/getRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/baseFn/getFormItemParams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/baseFn/getEnv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#56#90#0" expanded="true" />
+            <element signature="e#220#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/baseFn/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#64#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/baseFn/upperNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
