@@ -10,6 +10,7 @@ import Qs from 'qs'
 Moment.locale('zh-cn')
 
 import baseFn from './lib/baseFn'
+import elementFn from './lib/elementFn'
 import vueFn from './lib/vueFn'
 
 export {
@@ -19,6 +20,7 @@ export {
   Moment,
   Qs,
   baseFn,
+  elementFn,
   vueFn
 }
 export default {
@@ -28,5 +30,6 @@ export default {
   Moment,
   Qs,
   ...baseFn,
+  ...elementFn,
   ...vueFn
 }
