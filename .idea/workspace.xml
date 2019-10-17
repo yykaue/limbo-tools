@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="add elementFn">
+    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,28 +16,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>let</find>
-      <find>obj</find>
-      <find>var</find>
-      <find>this</find>
-      <find>toRouter</find>
-      <find>getFormItemParams</find>
-      <find>chnNumChar</find>
-      <find>chnUnitSection</find>
-      <find>chnUnitChar</find>
-      <find>strIns</find>
-      <find>deepCopy</find>
-      <find>getEnv</find>
-      <find>element</find>
-      <find>that</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>needCopy</replace>
-      <replace>let</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +77,10 @@
       <workItem from="1567926067426" duration="3493000" />
       <workItem from="1568604150078" duration="5379000" />
       <workItem from="1569482612046" duration="1724000" />
-      <workItem from="1571222313442" duration="439000" />
+      <workItem from="1571222313442" duration="755000" />
+      <workItem from="1571223209093" duration="8000" />
+      <workItem from="1571283699381" duration="74000" />
+      <workItem from="1571296196336" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -171,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568615023303</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update version">
+      <created>1571222958929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571222958929</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,14 +170,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update version" />
     <MESSAGE value="update export function" />
     <MESSAGE value="修改 back 方法" />
     <MESSAGE value="update objProxy Fn" />
@@ -198,6 +187,7 @@
     <MESSAGE value="add updateCookie" />
     <MESSAGE value="add distinct Fn" />
     <MESSAGE value="add elementFn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add elementFn" />
+    <MESSAGE value="update version" />
+    <option name="LAST_COMMIT_MESSAGE" value="update version" />
   </component>
 </project>
