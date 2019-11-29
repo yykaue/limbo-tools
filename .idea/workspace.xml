@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/baseFn/clipboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +85,9 @@
       <workItem from="1571223209093" duration="8000" />
       <workItem from="1571283699381" duration="74000" />
       <workItem from="1571296196336" duration="5000" />
+      <workItem from="1571302756679" duration="199000" />
+      <workItem from="1571303498224" duration="4000" />
+      <workItem from="1575014377108" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -159,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571222958929</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update version">
+      <created>1571302823835</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571302823835</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

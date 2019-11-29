@@ -1,9 +1,10 @@
 {
   "name": "limbo-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "工具库",
   "main": "index.js",
   "dependencies": {
+    "copy-text-to-clipboard": "^2.1.1",
     "element-ui": "^2.12.0",
     "js-base64": "^2.5.1",
     "js-cookie": "^2.2.0",
