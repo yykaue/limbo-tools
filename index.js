@@ -2,7 +2,10 @@
  *Created by limbo <yykaue@qq.com> on 2019/7/3.
  */
 import { Base64 } from 'js-base64'
+import Clipboard from 'copy-text-to-clipboard'
 import Cookie from 'js-cookie'
+import DomToImg from 'dom-to-image'
+import FileSaver from 'file-saver'
 import Md5 from 'md5.js'
 import Moment from 'moment'
 import Qs from 'qs'
@@ -15,7 +18,10 @@ import vueFn from './lib/vueFn'
 
 export {
   Base64,
+  Clipboard,
   Cookie,
+  DomToImg,
+  FileSaver,
   Md5,
   Moment,
   Qs,
@@ -25,7 +31,10 @@ export {
 }
 export default {
   Base64,
+  Clipboard,
   Cookie,
+  DomToImg,
+  FileSaver,
   Md5,
   Moment,
   Qs,
