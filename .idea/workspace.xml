@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="update version">
-      <change afterPath="$PROJECT_DIR$/lib/baseFn/HZRecorder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/baseFn/createAudio.js" afterDir="false" />
+    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/baseFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/createAudio.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/createAudio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
   <component name="ProjectId" id="1SHZ7ElWAhSS2LH3GcVQjiKBChr" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../package-pri-components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +94,9 @@
       <workItem from="1575014377108" duration="2405000" />
       <workItem from="1575439351121" duration="3836000" />
       <workItem from="1575448676062" duration="226000" />
-      <workItem from="1575533691090" duration="13653000" />
+      <workItem from="1575533691090" duration="17743000" />
+      <workItem from="1575861231108" duration="2476000" />
+      <workItem from="1575887928560" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -209,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575445991273</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add createAudio &amp;&amp; HZRecorder FN">
+      <created>1575622573884</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575622573884</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update version">
+      <created>1575622644832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575622644832</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +255,7 @@
     <MESSAGE value="add clipboard fn" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="add DomToImg &amp; FileSaver" />
+    <MESSAGE value="add createAudio &amp;&amp; HZRecorder FN" />
     <MESSAGE value="update version" />
     <option name="LAST_COMMIT_MESSAGE" value="update version" />
   </component>
