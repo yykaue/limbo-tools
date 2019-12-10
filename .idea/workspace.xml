@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/baseFn/detectOS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/baseFn/createAudio.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/createAudio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,8 @@
       <workItem from="1575448676062" duration="226000" />
       <workItem from="1575533691090" duration="17743000" />
       <workItem from="1575861231108" duration="2476000" />
-      <workItem from="1575887928560" duration="1509000" />
+      <workItem from="1575887928560" duration="2760000" />
+      <workItem from="1575952553359" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -224,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575622644832</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update createAudio Fn">
+      <created>1575949969266</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575949969266</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +265,7 @@
     <MESSAGE value="add DomToImg &amp; FileSaver" />
     <MESSAGE value="add createAudio &amp;&amp; HZRecorder FN" />
     <MESSAGE value="update version" />
-    <option name="LAST_COMMIT_MESSAGE" value="update version" />
+    <MESSAGE value="update createAudio Fn" />
+    <option name="LAST_COMMIT_MESSAGE" value="update createAudio Fn" />
   </component>
 </project>
