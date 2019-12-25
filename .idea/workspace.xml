@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/baseFn/unique.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/vueFn/toRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vueFn/toRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/distinct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/baseFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +26,7 @@
   <component name="ProjectId" id="1SHZ7ElWAhSS2LH3GcVQjiKBChr" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crm-web-onlinejudge" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,7 +99,8 @@
       <workItem from="1575861231108" duration="2476000" />
       <workItem from="1575887928560" duration="2760000" />
       <workItem from="1575952553359" duration="4725000" />
-      <workItem from="1575972098930" duration="1515000" />
+      <workItem from="1575972098930" duration="1827000" />
+      <workItem from="1577254450535" duration="2371000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -239,7 +242,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575959763366</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update toRouter Fn">
+      <created>1575973735079</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575973735079</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update toRouter Fn">
+      <created>1575973793748</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575973793748</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +291,7 @@
     <MESSAGE value="update version" />
     <MESSAGE value="update createAudio Fn" />
     <MESSAGE value="add detectOS Fn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add detectOS Fn" />
+    <MESSAGE value="update toRouter Fn" />
+    <option name="LAST_COMMIT_MESSAGE" value="update toRouter Fn" />
   </component>
 </project>
