@@ -24,7 +24,7 @@
   <component name="ProjectId" id="1SHZ7ElWAhSS2LH3GcVQjiKBChr" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crm-web-feedback" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -99,7 +99,8 @@
       <workItem from="1575887928560" duration="2760000" />
       <workItem from="1575952553359" duration="4725000" />
       <workItem from="1575972098930" duration="1827000" />
-      <workItem from="1577254450535" duration="8979000" />
+      <workItem from="1577254450535" duration="9874000" />
+      <workItem from="1577356081378" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
@@ -262,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577257892915</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="HZRecorder 修改采集位数">
+      <created>1577351503978</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1577351503978</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +317,7 @@
     <MESSAGE value="add detectOS Fn" />
     <MESSAGE value="update toRouter Fn" />
     <MESSAGE value="distinct 更改为 unique" />
-    <option name="LAST_COMMIT_MESSAGE" value="distinct 更改为 unique" />
+    <MESSAGE value="HZRecorder 修改采集位数" />
+    <option name="LAST_COMMIT_MESSAGE" value="HZRecorder 修改采集位数" />
   </component>
 </project>
