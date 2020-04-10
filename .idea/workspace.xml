@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
+    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="HZRecorder 修改 采集位数 &amp;&amp; 采集率">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/baseFn/HZRecorder.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/baseFn/HZRecorder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/elementFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/elementFn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/elementFn/message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/elementFn/ruleForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/elementFn/ruleFormInit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +106,9 @@
       <workItem from="1577254450535" duration="9874000" />
       <workItem from="1577356081378" duration="1516000" />
       <workItem from="1577416591024" duration="1878000" />
+      <workItem from="1578897825765" duration="13600000" />
+      <workItem from="1586316151120" duration="2156000" />
+      <workItem from="1586511979016" duration="2185000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
