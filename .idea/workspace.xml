@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/elementFn/setPaging.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/elementFn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/elementFn/index.js" afterDir="false" />
+    <list default="true" id="ed813b7a-691d-428b-bc34-b97f3567bbe0" name="默认更改列表" comment="去除element-ui的依赖">
+      <change afterPath="$PROJECT_DIR$/lib/baseFn/hasCodesInit.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SHZ7ElWAhSS2LH3GcVQjiKBChr" />
@@ -106,6 +109,7 @@
       <workItem from="1578897825765" duration="13600000" />
       <workItem from="1586316151120" duration="2156000" />
       <workItem from="1586511979016" duration="3678000" />
+      <workItem from="1588240995787" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="update version">
       <created>1563506232835</created>
