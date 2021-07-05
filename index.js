@@ -4,6 +4,7 @@
 import { Base64 } from 'js-base64'
 import Clipboard from 'copy-text-to-clipboard'
 import Cookie from 'js-cookie'
+import CryptoJS from 'crypto-js'
 import DomToImg from 'dom-to-image'
 import FileSaver from 'file-saver'
 import Md5 from 'md5.js'
@@ -20,6 +21,7 @@ export {
   Base64,
   Clipboard,
   Cookie,
+  CryptoJS,
   DomToImg,
   FileSaver,
   Md5,
@@ -33,6 +35,7 @@ export default {
   Base64,
   Clipboard,
   Cookie,
+  CryptoJS,
   DomToImg,
   FileSaver,
   Md5,
