@@ -7,7 +7,7 @@ import Cookie from 'js-cookie'
 import CryptoJS from 'crypto-js'
 import DomToImg from 'dom-to-image'
 import FileSaver from 'file-saver'
-import Md5 from 'md5.js'
+import Md5JS from 'md5.js'
 import Moment from 'moment'
 import Qs from 'qs'
 
@@ -24,7 +24,7 @@ export {
   CryptoJS,
   DomToImg,
   FileSaver,
-  Md5,
+  Md5JS,
   Moment,
   Qs,
   baseFn,
@@ -38,7 +38,7 @@ export default {
   CryptoJS,
   DomToImg,
   FileSaver,
-  Md5,
+  Md5JS,
   Moment,
   Qs,
   ...baseFn,
