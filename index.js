@@ -25,8 +25,5 @@ export {
   FileSaver,
   Md5JS,
   Moment,
-  Qs,
-  baseFn,
-  elementFn,
-  vueFn
+  Qs
 }
