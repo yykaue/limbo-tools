@@ -13,10 +13,9 @@ import Qs from 'qs'
 
 Moment.locale('zh-cn')
 
-import * as baseFn from './lib/baseFn'
-import * as elementFn from './lib/elementFn'
-import * as vueFn from './lib/vueFn'
-
+export * from './lib/baseFn'
+export * from './lib/elementFn'
+export * from './lib/vueFn'
 export {
   Base64,
   Clipboard,
