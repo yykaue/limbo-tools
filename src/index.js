@@ -11,16 +11,19 @@ import Md5JS from 'md5.js'
 import Moment from 'moment'
 import Qs from 'qs'
 
+const Deepmerge = require('deepmerge')
+
 Moment.locale('zh-cn')
 
-export * from './lib/baseFn'
-export * from './lib/elementFn'
-export * from './lib/vueFn'
+export * from '../lib/baseFn'
+export * from '../lib/elementFn'
+export * from '../lib/vueFn'
 export {
   Base64,
   Clipboard,
   Cookie,
   CryptoJS,
+  Deepmerge,
   DomToImg,
   FileSaver,
   Md5JS,
