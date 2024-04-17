@@ -11,7 +11,7 @@ import Md5JS from 'md5.js'
 import Moment from 'moment'
 import Qs from 'qs'
 
-const Deepmerge = require('deepmerge')
+import Deepmerge from 'deepmerge'
 
 Moment.locale('zh-cn')
 
