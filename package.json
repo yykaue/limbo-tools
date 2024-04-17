@@ -1,6 +1,6 @@
 {
   "name": "limbo-tools",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "工具库",
   "main": "src/index.js",
   "dependencies": {
