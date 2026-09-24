@@ -3,6 +3,10 @@
   "version": "1.5.7",
   "description": "工具库",
   "main": "src/index.js",
+  "files": [
+    "src",
+    "lib"
+  ],
   "dependencies": {
     "copy-text-to-clipboard": "2.1.1",
     "crypto-js": "4.0.0",
@@ -31,9 +35,10 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint:ext": "eslint --ext .js,.vue .",
-    "lint:fix": "eslint --fix --ext .js,.vue .",
+    "test": "node --require ./scripts/register.cjs --test tests/*.test.js",
+    "lint": "npm run lint:ext",
+    "lint:ext": "eslint --ext .js,.cjs .",
+    "lint:fix": "eslint --fix --ext .js,.cjs .",
     "patch": "npm version patch && git push origin master && git push origin --tags && npm publish",
     "minor": "npm version minor && git push origin master && git push origin --tags && npm publish",
     "major": "npm version major && git push origin master && git push origin --tags && npm publish"
